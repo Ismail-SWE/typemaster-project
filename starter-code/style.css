@@ -1,0 +1,45 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ===== VARIABLES ===== */
+:root {
+  /* Colors */
+  --orange-500: #F16718;
+  --orange-300: #FF9B62;
+  --neutral-900: #162542;
+  --neutral-400: #5D6D8F;
+  --neutral-200: #E8EFF2;
+  --neutral-0: #FFFFFF;
+
+  /* Typography */
+  --font-heading: 'Barlow Condensed', sans-serif;
+  --font-body: 'Barlow', sans-serif;
+
+  /* Spacing */
+  --spacing-100: 8px;
+  --spacing-150: 12px;
+  --spacing-200: 16px;
+  --spacing-300: 24px;
+  --spacing-400: 32px;
+  --spacing-500: 40px;
+  --spacing-600: 48px;
+  --spacing-800: 64px;
+  --spacing-1000: 80px;
+
+  /* Border radius */
+  --radius-8: 8px;
+  --radius-16: 16px;
+  --radius-20: 20px;
+}
