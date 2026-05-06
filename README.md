@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Ismail-SWE/typemaster-project](https://github.com/Ismail-SWE/typemaster-project)
-- Live Site URL: *(add your live site URL here)*
+- Live Site URL: *(https://ismail-swe.github.io/typemaster-project/)*
 
 ---
 
